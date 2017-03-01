@@ -1,3 +1,3 @@
 # hello-world
-Git'n started
+Git'n started.
 Graphic designer. Learning to code.
